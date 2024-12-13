@@ -21,6 +21,9 @@ A central hub for reusable **Java libraries and tools**, designed to simplify yo
 ```xml
 <dependency>
   <groupId>com.jarhub</groupId>
-  <artifactId>library-name</artifactId>
-  <version>1.0.0</version>
-</dependency>
+  <artifactId>{library-name}</artifactId>
+  <version>{version}</version>
+</dependency> ```
+
+
+
